@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoginAndRegister
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 51925008c4e99ad449999c3d99eee36e, type: 3}
+    - {fileID: 2800000, guid: ea5c10519f4cca24b90b0f5d49a74994, type: 3}
+    - {fileID: 2800000, guid: f15bb590039dfc0428c35c4e863be190, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f15bb590039dfc0428c35c4e863be190: 21300000
+    - ea5c10519f4cca24b90b0f5d49a74994: 21300000
+    - ba4281b3649434644b0df1884e142b5c: 21300000
+    - 6ba23976122f6374192478a38ccd50fe: 21300000
+    - 02987bb624275ad44a731bc88f594592: 21300000
+    - 812bc367198f7c54d9391f7af4608e97: 21300000
+    - 283113bf9afeb1c4bb05b37c5edac42e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f15bb590039dfc0428c35c4e863be190, type: 3}
+  - {fileID: 21300000, guid: ea5c10519f4cca24b90b0f5d49a74994, type: 3}
+  - {fileID: 21300000, guid: ba4281b3649434644b0df1884e142b5c, type: 3}
+  - {fileID: 21300000, guid: 6ba23976122f6374192478a38ccd50fe, type: 3}
+  - {fileID: 21300000, guid: 02987bb624275ad44a731bc88f594592, type: 3}
+  - {fileID: 21300000, guid: 812bc367198f7c54d9391f7af4608e97, type: 3}
+  - {fileID: 21300000, guid: 283113bf9afeb1c4bb05b37c5edac42e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RegisterPanel_Bg
+  - MainBG
+  - CheckMark_White
+  - ui_ButtonIcon_GoBack
+  - ui_TipInfoBg_Black
+  - ui_TipInfoBg_White
+  - ui_InputField_Bg
+  m_RenderDataMap: {}
+  m_Tag: LoginAndRegister
+  m_IsVariant: 0
